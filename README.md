@@ -28,7 +28,7 @@ The system collects network information, tests connectivity, measures latency an
 
 ## Project Structure
 
-programming/
+SMART NETWORK HEALTH ANALYZER/
 │
 ├── main.py
 ├── history.json
@@ -57,7 +57,6 @@ programming/
 - Command Prompt or PowerShell
 - Internet/network connection for network testing
 
-No external Python packages are required.
 
 ## Configuration
 

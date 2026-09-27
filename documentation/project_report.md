@@ -164,13 +164,20 @@ The system architecture diagram represents the major components of the applicati
 
 The architecture diagram is available in:
 
-`documentation/architecture.png`
+`documentation/architecture diagram.png`
 
 ### 6.2 Workflow Diagram
 
 The workflow diagram represents the sequence of operations performed by the application, starting from the main menu and continuing through network data collection, analysis, health scoring, diagnosis, result display, and history storage.
 
 The workflow diagram is available in the `documentation` folder.
+
+### 6.3 Use Case Diagram
+
+The Use Case Diagram shows how the user interacts with the Smart Network Health Analyzer. It represents the major operations available to the user, including viewing network information, testing connectivity, analyzing performance, checking the health score, viewing diagnosis and recommendations, reviewing network history, and starting or stopping continuous monitoring.
+
+The diagram also shows the supporting system operations used to collect network data, calculate the health score, load historical data, and perform continuous monitoring.
+
 
 
 ## 7. Design Decisions and Rationale
